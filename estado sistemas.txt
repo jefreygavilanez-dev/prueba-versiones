@@ -1,4 +1,4 @@
 registro de sitemas 
 Sistema SIGIA
-Estado Probado 
-Pruebas realizadas correctamente 
+Estado Aprobado 
+Observaciones: Version Aprobada para entrega
